@@ -46,4 +46,8 @@ This repository contains my solutions to the Fly.io Distributed Systems Challeng
   - Make sure to run `go install .` for the specific task you want to test.
   - Visit fly.io/dist-sys/<task-number> for specific instructions.
   - Modify the command as needed, changing the directory path from ` ~/go/bin/maelstrom... ` to ` ~/go/bin/challenge-<number> ` or ` ~/go/bin/challenge-<number>/part-<letter> ` for correct execution.
+  - Optionally you can run the `test.sh` command found in every directory using:
+    ```bash
+        ./test.sh
+    ```
     
