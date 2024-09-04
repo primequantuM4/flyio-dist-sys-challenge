@@ -10,7 +10,6 @@ import (
 )
 
 type ClusterNode struct {
-	currNode     string
 	neighborNode map[string]bool
 	lock         sync.Mutex
 }
