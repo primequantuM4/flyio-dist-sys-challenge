@@ -15,6 +15,8 @@ This repository contains my solutions to the Fly.io Distributed Systems Challeng
     
 - `challenge-4/`: Solution and code for Task 4 of the challenge.
 
+- ## -- NOT YET IMPLEMENTED --
+
 - `challenge-5/`: Solution and code for Task 5, which has multiple parts:
   - `part-a/`: Code and solution for Task 5, Part 1.
   - `part-b/`: Code and solution for Task 5, Part 2.
